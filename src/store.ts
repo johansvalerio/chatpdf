@@ -1,11 +1,11 @@
 import { writable } from 'svelte/store';
 
-export let files = {
+export let files: any = {
     accepted: [],
     rejected: []
 };
 
-export const addFile = (e) => {
+export const addFile = (e:any) => {
     const { acceptedFiles, fileRejections } = e.detail;
     console.log(acceptedFiles);
     files.accepted = [...files.accepted, ...acceptedFiles];
@@ -27,13 +27,19 @@ export const APP_STATUS = {
     ERROR: -1
 }
 
-export const appStatus = writable(APP_STATUS.INIT)
+export const appStatus = writable(APP_STATUS.CHAT_MODE)
+export const appStatusInfo = writable({id: '', url: '', pages: 0})
 
 export const setAppStatusInit = () => appStatus.set(APP_STATUS.INIT)
 
 export const setAppStatusLoading = () => appStatus.set(APP_STATUS.LOADING)
 
-export const setAppStatusChatMode = () => appStatus.set(APP_STATUS.CHAT_MODE)
+export const setAppStatusChatMode = (
+    { id, url, pages } :
+    { id: string, url: string, pages: number }) => {
+    appStatus.set(APP_STATUS.CHAT_MODE)
+    appStatusInfo.set({ id, url, pages })
+  }
 
 export const setAppStatusError = () => appStatus.set(APP_STATUS.ERROR)
 
