@@ -51,6 +51,8 @@ export const POST: APIRoute = async ({ request }) => {
         info
     } = result
 
+    console.log(result)
+
     const data = info?.ocr?.adv_ocr?.data
 
     const text = data.map((blocks: { textAnnotations: { description: string }[] }) => {
@@ -62,7 +64,6 @@ export const POST: APIRoute = async ({ request }) => {
 
     // TODO: Meter esta info en una base de datos
     // Mejor todavía en un vector y hacer los embeddings
-    // pero no nos da tiempo
     fs.writeFile(`${outputDir}/${id}.txt`, text, 'utf-8')
 
     return new Response(JSON.stringify({

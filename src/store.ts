@@ -28,7 +28,9 @@ export const APP_STATUS = {
 }
 
 export const appStatus = writable(APP_STATUS.CHAT_MODE)
-export const appStatusInfo = writable({id: '', url: '', pages: 0})
+// export const appStatusInfo = writable({id: '1ed1a5680e4b0bd5851b834e1d730ec7', url: 'http://res.cloudinary.com/djdvmcnqc/image/upload/v1707530329/pdf/lzecur1burexkh54jt6w.pdf', pages: 1})
+
+ export const appStatusInfo = writable({id: '16250ebcfcbf4b519e92b55822582ade', url: 'http://res.cloudinary.com/djdvmcnqc/image/upload/v1707532923/pdf/tymyr33zdgoiazbmfyjt.pdf', pages: 4})
 
 export const setAppStatusInit = () => appStatus.set(APP_STATUS.INIT)
 

@@ -1,0 +1,138 @@
+METODOLOGÍA DE
+LA INVESTIGACIÓN
+Hernández Sampieri, Roberto;
+Fernández-Collado, Carlos;
+Baptista Lucio, Pilar
+Mc Graw-Hill, México, 2006, 850 p.
+DATOS DE LOS AUTORES
+Roberto Hernández Sampieri es director del Centro de Investigación y
+Coordinación del Doctorado en Administración de la Universidad de Celaya.
+Carlos Fernández-Collado es rector de la Universidad de Celaya.
+Profesor del Instituto Politécnico Nacional. Profesor Visitante de la
+Universidad de Oviedo.
+Pilar Baptista Lucio es directora del Centro Anahuac de Investigación,
+Servicios Educativos y Posgrado, de la Facultad de Educación en la
+Universidad Anáhuac.
+CONTENIDO
+El contenido de esta cuarta edición se divide en cuatro partes con un
+excelente desarrollo didáctico, apuntalado mediante la inclusión de
+esquemas que ilustran las explicaciones de cada sección.
+La primera consta de dos capítulos. El primero de ellos, analiza las
+semejanzas y diferencias entre los dos enfoques investigativos en boga: el
+cuantitativo y el cualitativo; el segundo, desarrolla el procedimiento para
+la elaboración del proyecto de investigación en cualquier diseño, ya sea
+cuantitativo o cualitativo.
+La segunda parte se dedica específicamente a la investigación cuan-
+titativa, de manera que desarrolla los apartados que debe contemplar la
+labor heurística en este enfoque. Los capítulos de esta segunda parte
+125
+Reseña
+llevan de la mano al lector desde el planteamiento del fenómeno, la bús-
+queda y la construcción del marco teórico, la formulación de hipótesis,
+hasta la elección del diseño idóneo de investigación, donde se privi-
+legia el diseño experimental. Trata de manera menos prolija los dise-
+ños que los autores denominan no experimentales, donde incluyen
+algunos de carácter descriptivo y los estudios de caso. No faltan las
+indicaciones para determinar el tipo y tamaño de la muestra, cuestio-
+nes dudosas para la mayoría de los estudiantes que se inician en la
+investigación.
+De esta misma segunda parte, es de recomendar el capítulo nueve,
+dedicado al diseño de los instrumentos de recolección de datos cuan-
+titativos, donde se explicitan preceptos para la elaboración de cues-
+tionarios y escalas para medir actitudes, tomando como base las esca-
+las de medición y el análisis de contenido, de manera que no pueden
+faltar indicaciones para el análisis de la información recopilada. En el
+capítulo diez se desarrollan los elementos estadísticos -tanto des-
+criptivos como inferenciales- y el apoyo de los programas electróni-
+cos de análisis estadístico para realizar el tratamiento de los datos.
+Asimismo, ofrece indicaciones para lograr la confiabilidad y la vali-
+dez. Este apartado finaliza con el reporte de los resultados de la
+investigación cuantitativa.
+por lo que toca a la tercera parte, constituida por seis capítulos, los
+autores desarrollan, de la misma manera detallada, el procedimiento
+para llevar a cabo una investigación cualitativa. Aquí se introduce al
+lector en la labor heurística cualitativa, donde conviene resaltar los
+criterios para la elección de la muestra en este tipo de enfoque, ele-
+mento que no es muy común encontrar en los textos de investigación.
+Se tratan, asimismo, los criterios para elaborar los instrumentos cua-
+litativos de recolección de información, los diseños, el análisis de los
+datos cualitativos asistidos por computadora y finaliza con el reporte de
+investigación cualitativa.
+La cuarta parte tiene como propósito mostrar la posibilidad de
+combinar ambos enfoques en la investigación del hecho educativo.
+126
+REVISTA PANAMERICANA DE PEDAGOGÍA No. 12 (2008): 125-128.
+SABERES Y QUEHACERES DEL PEDAGOGO
+METODOLOGÍA DE
+LA INVESTIGACIÓN
+VALORACIÓN CRÍTICA
+La presente edición, la cuarta, modifica el contenido vertido en las edi-
+ciones anteriores, debido a que ahora desarrolla los tópicos relativos a la
+investigación cualitativa. Me parece conveniente señalar que el contenido
+del libro se sustenta en la primera parte-más precisamente en el primer
+capítulo, donde se tratan las «Similitudes y diferencias entre los enfoques
+cuantitativo y cualitativo»>-, no obstante, a mi juicio, la taxonomía de la
+investigación presenta un problema conceptual, cuestión que es observable
+en el esquema de la página dos.
+Dicho esquema divide los enfoques de la investigación de manera
+general en tres posibilidades, a saber: cuantitativo, mixto y cualitativo. Al
+referirse a las características del enfoque cuantitativo, incluye: <<mide
+fenómenos, utiliza estadísticas, emplea experimentos, análisis causa-efec-
+to>>. Al observarlas, es evidente que se refiere específicamente a un solo
+diseño, el experimental, puesto que las características enunciadas no
+corresponden a los estudios descriptivos. Considero que determinar las
+características en función de un diseño prototípico -el experimental-
+manifiesta incongruencia con los diseños que no son experimentales.
+Los diseños del enfoque cuantitativo incluidos en el texto -contem-
+plados en el capítulo siete como experimentales son: el experimento
+[propiamente dicho] y el cuasi experimento, y como no experimentales, las
+investigaciones: transeccional o transversal, longitudinal o evolutiva, lon-
+gitudinales de tendencia y longitudinales de evolución de grupo, las cua-
+les en realidad son diseños de investigación descriptiva. Además, inclu-
+yen en este mismo taxón a los estudios de caso y no se tratan los diseños
+ex post facto. Considero que la división de la investigación cuantitativa
+-experimentos y no experimentos que los autores del libro asumen,
+puede causar confusión en los lectores poco experimentados.
+A mi juicio, la investigación cuantitativa se divide por su propósito en
+causales y no causales, es decir, la primera responde a la pregunta ¿por qué
+suceden los fenómenos?, y la segunda a la pregunta ¿cómo suceden los
+fenómenos? Así las cosas, en los causales se incluyen los diseños: experi-
+mentales y no experimentales. A su vez, los experimentales están consti-
+tuidos por los experimentos propiamente dichos, los pre experimentos y
+REVISTA PANAMERICANA DE PEDAGOGÍA No. 12 (2008): 125-128.
+SABERES Y QUEHACERES DEL PEDAGOGO
+127
+Reseña
+los cuasi experimentos. Por su parte, los no experimentales son los diseños
+ex post facto. En tanto que en los diseños no causales se ubican los descrip-
+tivos (esto es, los longitudinales, transversales, correlacionales, etcétera)
+debido a que la investigación descriptiva responde a la pregunta «¿cómo
+están sucediendo los fenómenos?» y no pretende llegar a explicaciones
+causales, donde una variable causa otra variable. Esta taxonomía permite
+la distinción de los diseños incluidos en el enfoque cuantitativo, debido a
+que los descriptivos en realidad son no causales, y considerarlos como no
+experimentales conduce al error de concebir que tengan el propósito de
+buscar relaciones de causa-efecto entre las variables y sólo se distinguen
+en que no son experimentales.
+Por lo que toca a los estudios de caso, podemos encontrarlos en varios
+de los diseños: puede ser causal experimental en el experimento de caso
+único; también descriptivo ya sea longitudinal o transversal, por supuesto
+etnográfico o bien investigación evaluativa.
+por otro lado, para que las características abarquen a todos los diseños
+de la investigación cuantitativa, podemos considerar las siguientes: des-
+cribe cómo o por qué suceden los fenómenos; mide cuantitativamente las
+variables; emplea la estadística (descriptiva e inferencial) para el análisis
+de los datos recopilados y tiene como propósito la generalización de los
+resultados obtenidos a la población de la que fue extraída la muestra.
+A pesar de las cuestiones en las que difiero con respecto a la clasifica-
+ción de la investigación de los autores, considero que el libro es un exce-
+lente compendio del proceder investigativo en el estudio del fenómeno
+educativo que pretenda seriedad, debido a que ofrece al lector el procedi-
+miento de la labor heurística de cada diseño y le resuelve las dudas más
+comunes mediante ejemplos, además de ofrecerle una amplia gama de
+referencias bibliográficas que le permiten profundizar en el contenido
+deseado.
+128
+María Guadalupe García Casanova
+REVISTA PANAMERICANA DE PEDAGOGÍA No. 12 (2008): 125-128.
+SABERES Y QUEHACERES DEL PEDAGOGO

@@ -40,7 +40,12 @@
 <Dropzone
   multiple="false"
   accept="application/pdf"
-  containerStyles="border-radius:12px; border-style:dashed; border-color:#94a3b8; border-width:2px; color: #9ca3af"
+  containerStyles="margin-top: 50px;
+  border-radius:12px; 
+  border-style:dashed; 
+  border-color:#fdba74;
+  border-width:2px; 
+  color: #9ca3af;"
   on:drop={handleFilesSelect}
 >
   Arrastra tu pdf y suéltalo aquí
