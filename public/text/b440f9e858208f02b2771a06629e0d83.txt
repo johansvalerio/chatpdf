@@ -1,0 +1,28 @@
+......... Networking
+CISCO Academy
+Statement of Achievement
+Johans Miguel Valerio Brenes
+has successfully achieved student level credential for completing the
+Python Essentials 1 course, provided by Cisco Networking Academy in
+collaboration with OpenEDG Python Institute.
+The graduate is able to proficiently:
+Design, develop, debug, execute, and refactor simple computer programs written in Python 3.
+Think algorithmically to analyze problems and implement them as computer processes.
+Use the syntax, semantics, and the most important elements of the Python Standard Library to write Python scripts
+and resolve typical implementation challenges.
+Understand the role of a programmer in the software development process.
+PYTHON
+PINSTITUTE
+Open Education & Development Group
+Attempt the qualification PCEP Certified Entry-Level Python Programmer from OpenEDG Python Institute and
+continue their professional development at an intermediate level with Python Essentials 2.
+Laura Quintana
+11.11. Networking
+CISCO Academy
+Verified
+Python Essentials 1.
+July 31, 2023
+Scan to Verify
+Laura Quintana
+Vice President and General Manager
+Cisco Networking Academy

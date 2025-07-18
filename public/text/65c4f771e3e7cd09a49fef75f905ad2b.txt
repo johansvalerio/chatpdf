@@ -1,0 +1,84 @@
+Johans Valerio
+johans.valerio@hotmail.com +506 7236 7648.
+Guanacaste, Costa Rica⚫
+GitHub⚫
+Portfolio
+Perfil Profesional
+Desarrollador Full Stack con experiencia en la creación de soluciones web modernas y
+escalables. Especializado en el desarrollo con tecnologías como React, Next.js, TypeScript y
+bases de datos SQL. Apasionado por el aprendizaje continuo y la implementación de buenas
+prácticas de desarrollo.
+Habilidades Técnicas
+Frontend
+React/Next.js
+TypeScript
+Tailwind CSS
+Backend
+85% Node.js
+80%
+83% NextAuth (JWT/OAuth)
+83%
+85%
+API Rest
+85%
+React Next.js TypeScript Node.js PostgreSQL
+Experiencia Profesional
+Desarrollador Full Stack Freelance
+Prisma
+Tailwind CSS
+Git/GitHub
+Vercel
+2023 - Presente
+• Desarrollo de aplicaciones web personalizadas para clientes
+Implementación de soluciones completas frontend y backend
+• Gestión de bases de datos y despliegue en producción
+IT Area
+Anterior
+• Gestión de proyectos tecnológicos
+• Supervisión de equipos de TI
+• Implementación de soluciones empresariales
+Educación
+Ingeniería Informática
+Universidad Hispanoamericana
+2023
+Bachiller en Educación Media
+Liceo Miguel Araya Venegas
+2014
+Certificaciones
+Introduction to Data Science
+Cisco
+2023
+Python Essentials I & II
+Cisco & OpenEDG Python Institute
+2023
+English III
+Universidad Técnica Nacional
+2022
+Proyectos Destacados
+El Tamalito
+Plataforma web para explorar y pedir comidas típicas
+Plataforma web moderna que permite explorar y pedir comidas típicas. Incluye autenticación de
+usuarios, catálogo interactivo y sistema de pedidos.
+Next.js TypeScript PostgreSQL
+Ver demo
+Prisma
+Código fuente
+XSbel Studio
+Sistema de gestión de citas para centros de belleza
+Solución todo-en-uno para gestión de citas en centros de belleza, con interfaz intuitiva para
+clientes y administradores.
+Next.js TypeScript
+NextAuth
+Tailwind CSS
+Ver demo
+Código fuente
+Idiomas
+Español
+Inglés
+Intereses
+Nativo
+Intermedio (B1/B2)
+Desarrollo de software Inteligencia Artificial Aplicaciones web modernas
+Aprendizaje continuo
+Referencias disponibles bajo petición
+Última actualización: Julio 2024

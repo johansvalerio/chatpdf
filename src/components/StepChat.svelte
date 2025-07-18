@@ -1,5 +1,5 @@
 <script>
-  import { deleteFile } from "../store";
+  import { deleteFile, setAppStatusError } from "../store";
   import { Button, Input } from "flowbite-svelte";
   import { appStatusInfo } from "../store";
   import StepLoading from "./StepLoading.svelte";
@@ -17,34 +17,37 @@
   });
 
   const handleSubmit = async (event) => {
-    event.preventDefault();
+    event.preventDefault()
 
-    loading = true;
+    loading = true
     answer = ""
+    const question = event.target.question.value
 
-    const question = event.target.question.value;
+    const searchParams = new URLSearchParams()
+    searchParams.append("id", id)
+    searchParams.append("question", question)
 
-    const searchParams = new URLSearchParams();
-    searchParams.append("id", id);
-    searchParams.append("question", question);
+    try {
+      const eventSource = new EventSource(`/api/chat?${searchParams.toString()}`)
 
-    const res = await fetch(`/api/chat?${searchParams.toString()}`, {
-      headers: {
-        "Content-Type": "application/json",
-      },
-    });
+      eventSource.onmessage = (event) => {
+        loading = false
+        const incomingData = JSON.parse(event.data)
 
-    if (!res.ok) {
-      loading = false;
-      console.error("Error");
-      return;
+        if (incomingData === "__END__") {
+          eventSource.close()
+          return
+        }
+
+        answer += incomingData
+      }
+    } catch (e) {
+      setAppStatusError()
+    } finally {
+      loading = false
     }
+  }
 
-    const {response} = await res.json();
-    console.log(response)
-    answer = response;
-    loading = false;
-  };
 </script>
 
 <div class="grid grid-cols-4 mt-3 mb-3 gap-2">
